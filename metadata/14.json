@@ -1,1 +1,5 @@
-{"name":"Bronya","description":"TEST","image":"http:\/\/localhost\/asset\/1763102831_L0HtQj.jpg","attributes":[{"trait_type":"ID","value":14},{"trait_type":"Status","value":"MINTED"}]}
+{
+  "name": "Bronya",
+  "description": "テスト用のNFTです。",
+  "image": "https://raw.githubusercontent.com/manabaha/test-1/main/14.jpg"
+}
